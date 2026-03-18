@@ -30,154 +30,105 @@ const hamza = {
   ],
   mindset: "Build scalable products that impact millions 🚀"
 }
----
 
-## 🚀 Tech Stack
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma" />
-</p>
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma" /> </p>
+🔥 Real World Projects
+✈️ Time2Travel App
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=Time2Travel+App" /> </p>
 
----
+Book flights & hotels
 
-## 🔥 Real World Projects
+MetaMask & crypto wallet integration
 
-### ✈️ Time2Travel App
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Time2Travel+App" />
-</p>
+Available on Play Store & App Store
 
-- Book flights & hotels  
-- MetaMask & crypto wallet integration  
-- Available on Play Store & App Store  
+👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.time2travel&hl=en
 
-👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.time2travel&hl=en  
-👉 iOS: https://apps.apple.com/in/app/time2travel-app/id6470649632  
+👉 iOS: https://apps.apple.com/in/app/time2travel-app/id6470649632
 
----
+💰 Love Wallet (Crypto Wallet)
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=Crypto+Wallet" /> </p>
 
-### 💰 Love Wallet (Crypto Wallet)
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Crypto+Wallet" />
-</p>
+Ethereum & Tron wallet
 
-- Ethereum & Tron wallet  
-- Send/Receive crypto  
-- Web3 integration  
+Send/Receive crypto
 
-👉 Android: https://play.google.com/store/apps/details?id=com.application.bfic&hl=en  
-👉 iOS: https://apps.apple.com/us/app/love-wallet-crypto/id6469113587  
+Web3 integration
 
----
+👉 Android: https://play.google.com/store/apps/details?id=com.application.bfic&hl=en
 
-### 📺 FullOn IPTV App
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=IPTV+App" />
-</p>
+👉 iOS: https://apps.apple.com/us/app/love-wallet-crypto/id6469113587
 
-- Live TV streaming  
-- Fast IPTV player  
-- Smooth performance  
+📺 FullOn IPTV App
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=IPTV+App" /> </p>
 
-👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.fullon&hl=en  
-👉 iOS: https://apps.apple.com/pk/app/fullon/id6482979185  
+Live TV streaming
 
----
+Fast IPTV player
 
-### 🎮 BLove DApp
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=BLove+DApp" />
-</p>
+Smooth performance
 
-- Tap-to-earn game  
-- Blockchain based rewards  
-- Interactive tasks  
+👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.fullon&hl=en
 
-👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.blovetap&hl=en  
-👉 iOS: https://apps.apple.com/pk/app/blove-dapp/id6615086615  
+👉 iOS: https://apps.apple.com/pk/app/fullon/id6482979185
 
----
+🎮 BLove DApp
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=BLove+DApp" /> </p>
 
-### 🛒 B-Store (Web3 Ecommerce)
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=B-Store+App" />
-</p>
+Tap-to-earn game
 
-- Buy/Sell products  
-- Crypto payments  
-- Decentralized features  
+Blockchain based rewards
 
-👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.bstore&hl=en  
-👉 iOS: https://apps.apple.com/pk/app/b-store/id6471982265  
+Interactive tasks
 
----
+👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.blovetap&hl=en
 
-### 🪙 BFIC Gold Network
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=BFIC+Gold" />
-</p>
+👉 iOS: https://apps.apple.com/pk/app/blove-dapp/id6615086615
 
-- Wallet + Browser  
-- Secure transactions  
-- Web3 connectivity  
+🛒 B-Store (Web3 Ecommerce)
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=B-Store+App" /> </p>
 
-👉 Android: https://play.google.com/store/apps/details?id=com.application.bficgold&hl=en  
-👉 iOS: https://apps.apple.com/pk/app/bfic-gold-network/id6476815887  
+Buy/Sell products
 
----
+Crypto payments
 
-### ✈️ Satoshi Airlines
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Satoshi+Airlines" />
-</p>
+Decentralized features
 
-- Fly & earn rewards  
-- Blockchain integration  
+👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.bstore&hl=en
 
-👉 Android: https://play.google.com/store/apps/details?id=com.skt.tmaphot&hl=en  
+👉 iOS: https://apps.apple.com/pk/app/b-store/id6471982265
 
----
+🪙 BFIC Gold Network
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=BFIC+Gold" /> </p>
 
-## 📊 GitHub Stats
+Wallet + Browser
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamxa152&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxa152&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+Secure transactions
 
----
+Web3 connectivity
 
-## 🌊 Contribution Graph
+👉 Android: https://play.google.com/store/apps/details?id=com.application.bficgold&hl=en
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamxa152&theme=tokyo-night&hide_border=true"/>
-</p>
+👉 iOS: https://apps.apple.com/pk/app/bfic-gold-network/id6476815887
 
----
+✈️ Satoshi Airlines
+<p align="center"> <img src="https://via.placeholder.com/800x400?text=Satoshi+Airlines" /> </p>
 
-## 🌐 Connect With Me
+Fly & earn rewards
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamziiinadeem">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/hamxa152">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+Blockchain integration
 
----
+👉 Android: https://play.google.com/store/apps/details?id=com.skt.tmaphot&hl=en
 
-## 💡 Developer Mindset
-
-<p align="center">
-  <i>"I don’t just build apps — I build scalable digital products."</i>
-</p>
-
-<p align="center">
-  ⭐ Star your favorite repos & let's grow together ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamxa152&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxa152&theme=tokyonight&hide_border=true" height="180"/> </p>
+🌊 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamxa152&theme=tokyo-night&hide_border=true"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/hamziiinadeem"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/hamxa152"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
+💡 Developer Mindset
+<p align="center"> <i>"I don’t just build apps — I build scalable digital products."</i> </p>
+<p align="center"> ⭐ Star your favorite repos & let's grow together ⭐ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/> </p> ```
