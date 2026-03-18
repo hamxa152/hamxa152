@@ -1,134 +1,104 @@
 <h1 align="center">🚀 HAMZA NADEEM 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Senior+Flutter+Developer;Blockchain+%26+Web3+Apps;AI+Integrated+Mobile+Apps;5%2B+Years+Experience;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Flutter+Developer;Web3+%26+Blockchain+Apps;AI+Integrated+Mobile+Apps;5%2B+Years+Experience;Building+Scalable+Products" />
 </p>
-
----
-
-<h2 align="center">⚡ DIGITAL ARCHITECT & INNOVATION BUILDER ⚡</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"/>
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 ```js
 const hamza = {
   role: "Senior Flutter Developer",
   experience: "5+ Years",
   location: "Dubai UAE | Pakistan 🇵🇰",
-  specialization: [
-    "Flutter Apps",
-    "Blockchain & Web3",
-    "Crypto Wallets",
-    "AI Integration",
-    "Real-time Apps"
-  ],
-  mindset: "Build scalable products that impact millions 🚀"
+  focus: ["Flutter", "Web3", "AI Apps", "Scalable Systems"],
+  mindset: "Build products that scale to millions 🚀"
 }
 
 ```
 
+
 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma" /> </p>
-🔥 Real World Projects
-✈️ Time2Travel App
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=Time2Travel+App" /> </p>
+💎 Featured Projects
+<table> <tr> <td width="50%">
+✈️ Time2Travel
 
-Book flights & hotels
+Flight & hotel booking
 
-MetaMask & crypto wallet integration
+Crypto wallet integration
 
-Available on Play Store & App Store
+🔗 Android
 
-👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.time2travel&hl=en
+🔗 iOS
 
-👉 iOS: https://apps.apple.com/in/app/time2travel-app/id6470649632
-
-💰 Love Wallet (Crypto Wallet)
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=Crypto+Wallet" /> </p>
+</td> <td width="50%">
+💰 Love Wallet
 
 Ethereum & Tron wallet
 
-Send/Receive crypto
-
 Web3 integration
 
-👉 Android: https://play.google.com/store/apps/details?id=com.application.bfic&hl=en
+🔗 Android
 
-👉 iOS: https://apps.apple.com/us/app/love-wallet-crypto/id6469113587
+🔗 iOS
 
-📺 FullOn IPTV App
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=IPTV+App" /> </p>
+</td> </tr> <tr> <td width="50%">
+📺 FullOn IPTV
 
 Live TV streaming
 
-Fast IPTV player
+High performance player
 
-Smooth performance
+🔗 Android
 
-👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.fullon&hl=en
+🔗 iOS
 
-👉 iOS: https://apps.apple.com/pk/app/fullon/id6482979185
-
+</td> <td width="50%">
 🎮 BLove DApp
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=BLove+DApp" /> </p>
 
-Tap-to-earn game
+Tap-to-earn system
 
-Blockchain based rewards
+Blockchain rewards
 
-Interactive tasks
+🔗 Android
 
-👉 Android: https://play.google.com/store/apps/details?id=com.innovationfactory.blovetap&hl=en
+🔗 iOS
 
-👉 iOS: https://apps.apple.com/pk/app/blove-dapp/id6615086615
+</td> </tr> <tr> <td width="50%">
+🛒 B-Store
 
-🛒 B-Store (Web3 Ecommerce)
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=B-Store+App" /> </p>
-
-Buy/Sell products
+Web3 ecommerce
 
 Crypto payments
 
-Decentralized features
+🔗 Android
 
-👉 Android: https://play.google.com/store/apps/details?id=biz.innovationfactory.bstore&hl=en
+🔗 iOS
 
-👉 iOS: https://apps.apple.com/pk/app/b-store/id6471982265
+</td> <td width="50%">
+🪙 BFIC Gold
 
-🪙 BFIC Gold Network
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=BFIC+Gold" /> </p>
+Wallet + browser
 
-Wallet + Browser
+Secure blockchain
 
-Secure transactions
+🔗 Android
 
-Web3 connectivity
+🔗 iOS
 
-👉 Android: https://play.google.com/store/apps/details?id=com.application.bficgold&hl=en
-
-👉 iOS: https://apps.apple.com/pk/app/bfic-gold-network/id6476815887
-
-✈️ Satoshi Airlines
-<p align="center"> <img src="https://via.placeholder.com/800x400?text=Satoshi+Airlines" /> </p>
-
-Fly & earn rewards
-
-Blockchain integration
-
-👉 Android: https://play.google.com/store/apps/details?id=com.skt.tmaphot&hl=en
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamxa152&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxa152&theme=tokyonight&hide_border=true" height="180"/> </p>
+</td> </tr> </table>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hamxa152&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxa152&theme=tokyonight&hide_border=true" height="170"/> </p>
 🌊 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamxa152&theme=tokyo-night&hide_border=true"/> </p>
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/hamziiinadeem"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/hamxa152"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
-💡 Developer Mindset
-<p align="center"> <i>"I don’t just build apps — I build scalable digital products."</i> </p>
-<p align="center"> ⭐ Star your favorite repos & let's grow together ⭐ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/> </p> ```
+💡 Mindset
+<p align="center"> <b>"I don’t just write code — I build scalable digital products."</b> </p> <p align="center"> ⭐ Star your favorite repos & let's grow together ⭐ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=140&section=footer"/> </p> ```
