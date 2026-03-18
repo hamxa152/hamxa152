@@ -22,77 +22,76 @@ const hamza = {
 }
 ```
 
-
 🚀 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma" /> </p>
-💎 Featured Apps (Portfolio Style)
+💎 Featured Apps
 <table> <tr> <td width="50%">
 ✈️ Time2Travel
-<img src="https://via.placeholder.com/600x300?text=Time2Travel+App" />
+<img src="https://play-lh.googleusercontent.com/DummyImage1=w600-h300" />
 
 Flight & hotel booking with crypto payments
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=biz.innovationfactory.time2travel
 
-🔗 iOS
+🔗 https://apps.apple.com/in/app/time2travel-app/id6470649632
 
 </td> <td width="50%">
 💰 Love Wallet
-<img src="https://via.placeholder.com/600x300?text=Crypto+Wallet" />
+<img src="https://play-lh.googleusercontent.com/DummyImage2=w600-h300" />
 
 Ethereum & Tron wallet with Web3 support
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=com.application.bfic
 
-🔗 iOS
+🔗 https://apps.apple.com/us/app/love-wallet-crypto/id6469113587
 
 </td> </tr> <tr> <td width="50%">
 📺 FullOn IPTV
-<img src="https://via.placeholder.com/600x300?text=IPTV+App" />
+<img src="https://play-lh.googleusercontent.com/DummyImage3=w600-h300" />
 
 Live streaming IPTV player
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=com.innovationfactory.fullon
 
-🔗 iOS
+🔗 https://apps.apple.com/pk/app/fullon/id6482979185
 
 </td> <td width="50%">
 🎮 BLove DApp
-<img src="https://via.placeholder.com/600x300?text=BLove+DApp" />
+<img src="https://play-lh.googleusercontent.com/DummyImage4=w600-h300" />
 
 Tap-to-earn blockchain app
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=com.innovationfactory.blovetap
 
-🔗 iOS
+🔗 https://apps.apple.com/pk/app/blove-dapp/id6615086615
 
 </td> </tr> <tr> <td width="50%">
 🛒 B-Store
-<img src="https://via.placeholder.com/600x300?text=B-Store+App" />
+<img src="https://play-lh.googleusercontent.com/DummyImage5=w600-h300" />
 
 Web3 ecommerce with crypto payments
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=biz.innovationfactory.bstore
 
-🔗 iOS
+🔗 https://apps.apple.com/pk/app/b-store/id6471982265
 
 </td> <td width="50%">
 🪙 BFIC Gold
-<img src="https://via.placeholder.com/600x300?text=BFIC+Gold" />
+<img src="https://play-lh.googleusercontent.com/DummyImage6=w600-h300" />
 
 Crypto wallet + browser
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=com.application.bficgold
 
-🔗 iOS
+🔗 https://apps.apple.com/pk/app/bfic-gold-network/id6476815887
 
 </td> </tr> <tr> <td width="50%">
 ✈️ Satoshi Airlines
-<img src="https://via.placeholder.com/600x300?text=Satoshi+Airlines" />
+<img src="https://play-lh.googleusercontent.com/DummyImage7=w600-h300" />
 
-Blockchain-based airline rewards
+Blockchain airline rewards
 
-🔗 Android
+🔗 https://play.google.com/store/apps/details?id=com.skt.tmaphot
 
 </td> <td width="50%">
 🧩 Ensemble UI
@@ -111,7 +110,6 @@ Low-code Flutter framework
 <p align="center"> <a href="https://www.linkedin.com/in/hamziiinadeem"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/hamxa152"> <img src="https://skillicons.dev/icons?i=github" /> </a> </p>
 💡 Developer Mindset
 <p align="center"> <b>"I don’t just code — I build scalable products used by thousands."</b> </p> <p align="center"> ⭐ Star your favorite repos & let's grow together ⭐ </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=140&section=footer"/> </p> ```
-
 
 
 
