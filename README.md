@@ -31,7 +31,7 @@ const Map<String, dynamic> hamza = {
 
 
 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,mongodb,git,github,vscode,figma,nestjs" /> </p>
 💎 Featured Apps
 ✈️ Time2Travel
 
