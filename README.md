@@ -13,13 +13,19 @@
 ## 🧠 About Me
 
 ```js
-const hamza = {
-  role: "Senior Flutter Developer",
-  experience: "6+ Years",
-  location: "Dubai UAE | Pakistan 🇵🇰",
-  expertise: ["Flutter", "Web3", "AI", "Crypto Apps"],
-  mindset: "Building scalable products 🚀"
-}
+const Map<String, dynamic> hamza = {
+  'role': 'Senior Flutter & Full Stack Mobile Developer',
+  'experience': '6+ Years',
+  'location': 'Dubai, UAE | Pakistan 🇵🇰',
+  'expertise': [
+    'Flutter & Dart',
+    'REST APIs & Backend Integration',
+    'Web3 & Blockchain',
+    'AI-Powered Applications',
+    'Fintech & Crypto Apps',
+  ],
+  'mindset': 'Building scalable products 🚀',
+};
 
 ```
 
