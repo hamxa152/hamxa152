@@ -15,7 +15,7 @@
 ```js
 const hamza = {
   role: "Senior Flutter Developer",
-  experience: "5+ Years",
+  experience: "6+ Years",
   location: "Dubai UAE | Pakistan 🇵🇰",
   expertise: ["Flutter", "Web3", "AI", "Crypto Apps"],
   mindset: "Building scalable products 🚀"
