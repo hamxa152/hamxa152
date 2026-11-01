@@ -1,11 +1,21 @@
 <h1 align="center">🚀 HAMZA NADEEM 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Flutter+Developer;Web3+%26+Blockchain+Apps;AI+Mobile+Apps;5%2B+Years+Experience;Building+Scalable+Products" />
+  <a href="https://hamza-portfolio-7.web.app" target="_blank">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Mobile+Developer;Flutter+%26+Dart+Expert;Web3+%26+Blockchain+Apps;AI+Mobile+Apps;6%2B+Years+Experience"
+      alt="Hamza Nadeem Portfolio"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"/>
+  <a href="https://hamza-portfolio-7.web.app" target="_blank">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"
+      alt="Visit My Portfolio"
+    />
+  </a>
 </p>
 
 ---
